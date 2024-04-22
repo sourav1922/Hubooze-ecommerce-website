@@ -1,0 +1,25 @@
+.sk{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    background-color: bisque;
+    height: 70vh;
+}
+.order{
+font-size: medium;
+font-weight: bold;
+margin-bottom: 8px;
+font-size: 35px;
+text-align: center;
+color: green;
+}
+.sk p{
+    font-weight: bold;
+    line-height: 25px;
+    font-size: 25px;
+    margin-top: 10px;
+    color: green;
+}

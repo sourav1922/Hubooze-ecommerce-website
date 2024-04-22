@@ -1,0 +1,10 @@
+.Admine{
+    display: flex;
+}
+
+@media (max-width:800px)
+{
+    .Admine{
+        flex-direction: column;
+    }
+}
